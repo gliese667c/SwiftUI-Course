@@ -6,7 +6,7 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 
 [Video](https://youtu.be/jbtqIBpUG7g)
 
-[Slides](./documents/Slides/l1.pdf)
+[Slides](./Slides/l1.pdf)
 
 ## Lecture 2: MVVM and the Swift Type System
 
@@ -18,11 +18,11 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 -   [Generics](https://youtu.be/4GjXq2Sr55Q?t=1730)
 -   [Functions as Types](https://youtu.be/4GjXq2Sr55Q?t=1971)
 
-[Slides](./documents/Slides/l2.pdf)
+[Slides](./Slides/l2.pdf)
 
-[Reading 1](./documents/Readings/r1.pdf)
+[Reading 1](./Readings/r1.pdf)
 
-[Assignment 1](./documents/Assignments/a1.pdf)
+[Assignment 1](./Assignments/a1.pdf)
 
 ## Lecture 3: Reactive UI + Protocols + Layout
 
@@ -33,7 +33,7 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 -   [Layout](https://youtu.be/SIYdYpPXil4?t=3176)
 -   [GeometryReader](https://youtu.be/SIYdYpPXil4?t=4207)
 
-[Slides](./documents/Slides/l3.pdf)
+[Slides](./Slides/l3.pdf)
 
 ## Lecture 4: Grid + enum + Optionals
 
@@ -44,13 +44,13 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 -   [Optional](https://youtu.be/eHEeWzFP6O4?t=2453)
 -   [Equatable](https://youtu.be/eHEeWzFP6O4?t=3808)
 
-[Slides](./documents/Slides/l4.pdf)
+[Slides](./Slides/l4.pdf)
 
-[GridLayout](./documents/Swift File/GridLayout.swift)
+[GridLayout](./SwiftFile/GridLayout.swift)
 
-[Reading 2](./documents/Readings/r2.pdf)
+[Reading 2](./Readings/r2_0.pdf)
 
-[Assignment 2](./documents/Assignments/a2.pdf)
+[Assignment 2](./Assignments/a2_0.pdf)
 
 ## Lecture 5: ViewBuilder + Shape + ViewModifier
 
@@ -61,7 +61,7 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 -   [Shape](https://youtu.be/oDKDGCRdSHc?t=1226)
 -   [ViewModifier](https://youtu.be/oDKDGCRdSHc?t=2555)
 
-[Slides](./documents/Slides/l5.pdf)
+[Slides](./Slides/l5.pdf)
 
 ## Lecture 6: Animation
 
@@ -75,11 +75,11 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 -   [Transitions](https://youtu.be/3krC2c56ceQ?t=1253)
 -   [AnimatableModifier](https://youtu.be/3krC2c56ceQ?t=3856)
 
-[Slides](./documents/Slides/l6.pdf)
+[Slides](./Slides/l6.pdf)
 
-[Reading 3](./documents/Readings/r3.pdf)
+[Reading 3](./Readings/r3.pdf)
 
-[Assignment 3](./documents/Assignments/a3.pdf)
+[Assignment 3](./Assignments/a3.pdf)
 
 ## Lecture 7: Multithreading EmojiArt
 
@@ -90,7 +90,9 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 -   [GCD](https://youtu.be/tmx-OwkBWxA?t=716)
 -   [fileprivate](https://youtu.be/tmx-OwkBWxA?t=2822)
 
-[Slides](./documents/Slides/l7.pdf)
+[Slides](./Slides/l7.pdf)
+[EmojiArtExtensions.swift](./SwiftFile/EmojiArtExtensions.swift)
+[Demo Code](./DemoCode/l7.pdf)
 
 ## Lecture 8: Gestures JSON
 
@@ -103,11 +105,11 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 -   [User Defaults won't write to disk right away](https://youtu.be/mz-rNLWJ0bk?t=2397)
 -   [inout gesture state](https://youtu.be/mz-rNLWJ0bk?t=3906)
 
-[Slides](./documents/Slides/l8.pdf)
+[Slides](./Slides/l8.pdf)
 
-[Assignment 4](./documents/Assignments/a4.pdf)
+[Assignment 4](./Assignments/a4.pdf)
 
-[Assignment 5](./documents/Assignments/a5.pdf)
+[Assignment 5](./Assignments/a5.pdf)
 
 ## Lecture 9: Data Flow
 
@@ -124,7 +126,7 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 -   [.onReceive{}](https://youtu.be/0i152oA3T3s?t=2570)
 -   [Publisher + URLSession(dataTaskPublisher)](https://youtu.be/0i152oA3T3s?t=2698)
 
-[Slides](./documents/Slides/l9.pdf)
+[Slides](./Slides/l9.pdf)
 
 ## Lecture 10: Modal Presentation and Navigation
 
@@ -158,9 +160,9 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 
 -   [.zIndex()](https://youtu.be/CKexGQuIO7E?t=6102)
 
-[Slides](./documents/Slides/l10.pdf)
+[Slides](./Slides/l10.pdf)
 
-[Assignment 6](./documents/Assignments/a6.pdf)
+[Assignment 6](./Assignments/a6.pdf)
 
 ## Lecture 11: Enroute Picker
 
@@ -178,7 +180,7 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 
 -   [Toggle in Form](https://youtu.be/fCfC6m7XUew?t=2904)
 
-[Slides](./documents/Slides/l11.pdf)
+[Slides](./Slides/l11.pdf)
 
 ## Lecture 12: Core Data
 
@@ -214,7 +216,7 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 
 -   [Build a programmatic NSPredicate](https://youtu.be/yOhyOpXvaec?t=5406)
 
-[Slides](./documents/Slides/l12.pdf)
+[Slides](./Slides/l12.pdf)
 
 ## Lecture 13: Persistence
 
@@ -228,8 +230,11 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 -   [Sandbox](https://youtu.be/fTNPRhGGP-0?t=1452)
 -   [File Manager](https://youtu.be/fTNPRhGGP-0?t=1610)
 
-[Slides](./documents/Slides/l13.pdf)
+[Slides](./Slides/l13.pdf)
 
 ## Lecture 14: UIKit Integration
 
-[Slides](./documents/Slides/l14.pdf)
+[Video](https://youtu.be/GRX5Dha_Clw)
+
+[Slides](./Slides/l14.pdf)
+
