@@ -46,6 +46,8 @@ Lecturer: **[Paul Hegarty](https://www.quora.com/Who-is-Paul-Hegarty-from-Stanfo
 
 [Slides](./documents/Slides/l4.pdf)
 
+[GridLayout](./documents/Swift File/GridLayout.swift)
+
 [Reading 2](./documents/Readings/r2.pdf)
 
 [Assignment 2](./documents/Assignments/a2.pdf)
